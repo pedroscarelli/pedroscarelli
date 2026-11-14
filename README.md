@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, meu nome é Pedro Scarelli</h1>
+<h1 align="center">Hey 👋, I’m Pedro Scarelli</h1>
 
 <p align="center">
   <a href="mailto:pvscarelli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><a href="https://www.linkedin.com/in/pedroscarelli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://www.instagram.com/_pedroscarelli"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
@@ -6,7 +6,7 @@
 
 ## <img loading="lazy" alt="Man Technologist Image" width="24" src="https://em-content.zobj.net/source/google/412/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png">  Sobre mim
 <p>
- Natural de Blumenau (SC), sou um grande fã de Java e GoLang.
+ A big Java and GoLang fan
 </p>
 
 
